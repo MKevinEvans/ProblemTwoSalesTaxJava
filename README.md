@@ -1,3 +1,5 @@
+# NOTE: THE "DIRECTIONS TO RUN" WERE INCLUDED BECAUSE THE PROBLEM WAS SUBMITTED VIA ZIP FILE. THEY MAY BE IGNORED HERE.
+
 # Assumptions:
 
 From the problem description, as well as the relationship between the given input and given output, I was able to deduce the following assumptions:
